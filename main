@@ -15,7 +15,7 @@ local mouse = plr:GetMouse()
 -- WHITELIST
 -- ============================================================
 local WHITELIST = {
-	--{ id = 8919667598, expires = "23.06.2026" },
+	--{ id = 000000000, expires = "31.12.2026" },
 }
 local function checkWhitelist()
 	local uid = plr.UserId
