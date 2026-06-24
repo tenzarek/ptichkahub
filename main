@@ -1,2 +1,1 @@
-SCRIPT_KEY="KEYLESS"
 loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/6e7edfd29b7bbb0b4a1fd7fb461cbd1d902232c127837d80bd787270f0232d99/download"))()
